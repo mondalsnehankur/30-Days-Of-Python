@@ -11,9 +11,7 @@
 
 | File | Description |
 |------|-------------|
-| `main.py` | Examples covered in Day 1 |
-| `exercises.py` | Practice problems |
-| `solutions.py` | Exercise solutions |
+| `helloWorld.py` | Examples covered in Day 1 |
 
 ## Concepts Learned
 
