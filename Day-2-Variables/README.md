@@ -1,6 +1,6 @@
-# 🐍 Day 1 – Variables, Data Types & Type Conversion in Python
+# 🐍 Day 2 – Variables, Data Types & Type Conversion in Python
 
-Welcome to **Day 1** of the **30 Days of Python** challenge!
+Welcome to **Day 2** of the **30 Days of Python** challenge!
 
 In this lesson, we cover the fundamental building blocks of Python programming:
 
