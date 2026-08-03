@@ -11,7 +11,7 @@ This repository documents my progress as I learn Python from the fundamentals to
 | Day | Topic | Link |
 |:---:|-----------------------------|:---:|
 | 01 | Introduction | [📂 Open](./Day-1-Introduction/) |
-| 02 | Variables | 🚧 Coming Soon |
+| 02 | Variables | [📂 Open](./Day-2-Variables/) |
 | 03 | Data Types | 🚧 Coming Soon |
 | 04 | Numbers | 🚧 Coming Soon |
 | 05 | Strings | 🚧 Coming Soon |
