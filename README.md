@@ -13,9 +13,9 @@ This repository documents my progress as I learn Python from the fundamentals to
 | 01 | Introduction | [📂 Open](./Day-1-Introduction/) |
 | 02 | Variables | [📂 Open](./Day-2-Variables/) |
 | 03 | Data Types | [📂 Open](./Day-3-Operators/) |
-| 04 | Numbers | [📂 Open](./Day-4-Strings/) |
-| 05 | Strings | 🚧 Coming Soon |
-| 06 | Lists | 🚧 Coming Soon |
+| 04 | Strings | [📂 Open](./Day-4-Strings/) |
+| 05 | Lists |  [📂 Open](./Day-5-Lists/) |
+| 06 | Tuples |  [📂 Open](./Day-6-Tuples/) |
 | 07 | Tuples | 🚧 Coming Soon |
 | 08 | Sets | 🚧 Coming Soon |
 | 09 | Dictionaries | 🚧 Coming Soon |
