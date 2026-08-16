@@ -17,8 +17,8 @@ This repository documents my progress as I learn Python from the fundamentals to
 | 05 | Lists |  [📂 Open](./Day-5-Lists/) |
 | 06 | Tuples |  [📂 Open](./Day-6-Tuples/) |
 | 07 | Sets |[📂 Open](./Day-7-Sets/) |
-| 08 | Sets | 🚧 Coming Soon |
-| 09 | Dictionaries | 🚧 Coming Soon |
+| 08 | Dictionaries | [📂 Open](./Day-8-Dictionaries/) |
+| 09 | Conditionals | [📂 Open](./Day-9-Conditionals/) |
 | 10 | Conditionals | 🚧 Coming Soon |
 | 11 | Loops | 🚧 Coming Soon |
 | 12 | Functions | 🚧 Coming Soon |
