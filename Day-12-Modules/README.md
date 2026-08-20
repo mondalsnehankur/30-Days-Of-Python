@@ -1,12 +1,3 @@
-from pathlib import Path
-
-readme = r"""# 🐍 30 Days of Python — Day 12: Modules
-
-> **Day 12 of the 30 Days of Python challenge**  
-> Focus: **Python Modules, Imports, Built-in Modules, and Random Data Generation**
-
----
-
 ## 📚 Overview
 
 Day 12 introduces **modules in Python** and explains how to organize reusable code into separate `.py` files. The lesson covers creating custom modules, importing functions and variables, renaming imports, and working with commonly used Python built-in modules.
