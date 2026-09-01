@@ -21,9 +21,9 @@ This repository documents my progress as I learn Python from the fundamentals to
 | 09 | Conditionals | [📂 Open](./Day-9-Conditionals/) |
 | 10 | Loops | [📂 Open](./Day-10-Loops/) |
 | 11 | Functions | [📂 Open](./Day-11-Functions/)|
-| 12 | Functions | 🚧 Coming Soon |
-| 13 | Modules | 🚧 Coming Soon |
-| 14 | Exceptions | 🚧 Coming Soon |
+| 12 | Modules | [📂 Open](./Day-12-Modules/) |
+| 13 | Comprehension | [📂 Open](./Day-13-Comprehension/) |
+| 14 | Higher Order Functions | [📂 Open](./Day-14-HigherOrderFunctions/) |
 | 15 | File Handling | 🚧 Coming Soon |
 | 16 | Python Packages | 🚧 Coming Soon |
 | 17 | Object-Oriented Programming | 🚧 Coming Soon |
