@@ -24,7 +24,7 @@ This repository documents my progress as I learn Python from the fundamentals to
 | 12 | Modules | [📂 Open](./Day-12-Modules/) |
 | 13 | Comprehension | [📂 Open](./Day-13-Comprehension/) |
 | 14 | Higher Order Functions | [📂 Open](./Day-14-HigherOrderFunctions/) |
-| 15 | File Handling | 🚧 Coming Soon |
+| 15 | Errors | [📂 Open](./Day-15-Errors/) |
 | 16 | Python Packages | 🚧 Coming Soon |
 | 17 | Object-Oriented Programming | 🚧 Coming Soon |
 | 18 | Regular Expressions | 🚧 Coming Soon |
