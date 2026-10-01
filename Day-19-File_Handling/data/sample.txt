@@ -1,0 +1,4 @@
+The goal of this sample is to practise reading text files.
+The file contains several repeated words.
+The most common words are the, file, and text.
+Python can read a file, count words, and analyse text.

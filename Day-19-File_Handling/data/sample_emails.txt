@@ -1,0 +1,4 @@
+From: alice@example.com
+To: bob@example.org
+Cc: carol@example.net
+Please contact support@example.com or admin@example.org.

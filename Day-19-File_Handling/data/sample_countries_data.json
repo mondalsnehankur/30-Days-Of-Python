@@ -1,0 +1,108 @@
+[
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "languages": [
+            "Chinese"
+        ],
+        "population": 1377422166
+    },
+    {
+        "name": "India",
+        "capital": "New Delhi",
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "population": 1295210000
+    },
+    {
+        "name": "United States of America",
+        "capital": "Washington, D.C.",
+        "languages": [
+            "English"
+        ],
+        "population": 323947000
+    },
+    {
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "languages": [
+            "Indonesian"
+        ],
+        "population": 258705000
+    },
+    {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "languages": [
+            "Portuguese"
+        ],
+        "population": 206135893
+    },
+    {
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "languages": [
+            "English",
+            "Urdu"
+        ],
+        "population": 194125062
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "languages": [
+            "English"
+        ],
+        "population": 186988000
+    },
+    {
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "languages": [
+            "Bengali"
+        ],
+        "population": 161006790
+    },
+    {
+        "name": "Russian Federation",
+        "capital": "Moscow",
+        "languages": [
+            "Russian"
+        ],
+        "population": 146599183
+    },
+    {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "languages": [
+            "Japanese"
+        ],
+        "population": 126960000
+    },
+    {
+        "name": "France",
+        "capital": "Paris",
+        "languages": [
+            "French"
+        ],
+        "population": 66861000
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "languages": [
+            "Spanish"
+        ],
+        "population": 46438422
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "languages": [
+            "Arabic"
+        ],
+        "population": 91290000
+    }
+]
