@@ -25,9 +25,9 @@ This repository documents my progress as I learn Python from the fundamentals to
 | 13 | Comprehension | [📂 Open](./Day-13-Comprehension/) |
 | 14 | Higher Order Functions | [📂 Open](./Day-14-HigherOrderFunctions/) |
 | 15 | Errors | [📂 Open](./Day-15-Errors/) |
-| 16 | Python Packages | 🚧 Coming Soon |
-| 17 | Object-Oriented Programming | 🚧 Coming Soon |
-| 18 | Regular Expressions | 🚧 Coming Soon |
+| 16 | Python Packages | [📂 Open](./Day-16-Date_and_Time/) |
+| 17 | Object-Oriented Programming | [📂 Open](./Day-17-Exception_Handling/) |
+| 18 | Regular Expressions | [📂 Open](./Day-18-Regular_Expressions/) |
 | 19 | Iterators & Generators | 🚧 Coming Soon |
 | 20 | Lambda Functions | 🚧 Coming Soon |
 | 21 | List Comprehension | 🚧 Coming Soon |
